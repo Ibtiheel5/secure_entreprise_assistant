@@ -1,0 +1,13 @@
+# Invoice Procedures
+
+## Issuing
+
+Customer invoices are issued within five days of delivery and carry a payment term of 45 days.
+
+## Supplier invoices
+
+Supplier invoices are matched against purchase orders before payment is released.
+
+## Late payment
+
+Overdue customer invoices trigger a reminder after 7 days and an escalation after 30 days.

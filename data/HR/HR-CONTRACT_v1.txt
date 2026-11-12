@@ -1,0 +1,17 @@
+# Employment Contract Template
+
+## Parties
+
+This contract is concluded between Nordia Systems and the employee Amel Rezgui (fictional), hired as Software Developer.
+
+## Notice period
+
+Either party may terminate the contract with a notice period of two months.
+
+## Confidentiality
+
+The employee shall not disclose confidential company information during or after employment.
+
+## Non-compete
+
+The non-compete obligation lasts twelve months after termination within the same market.

@@ -1,0 +1,13 @@
+# Salary Grid 2026
+
+## Grid
+
+Junior engineers are paid between 1800 and 2400 dinars per month. Senior engineers are paid between 3500 and 4800 dinars per month.
+
+## Bonuses
+
+The annual performance bonus ranges from one to three months of base salary.
+
+## Executive
+
+The compensation of the HR director is 6200 dinars per month plus bonus.

@@ -1,0 +1,17 @@
+# Incident Report 2026-03
+
+## Summary
+
+On 14 March 2026 a phishing email led to the compromise of one employee mailbox at Nordia Systems.
+
+## Root cause
+
+The root cause was a missing multi-factor authentication policy on the legacy mail gateway.
+
+## Impact
+
+No customer data was exfiltrated. Approximately 40 internal emails were read by the attacker.
+
+## Remediation
+
+MFA was enforced on all mail accounts and the legacy gateway was decommissioned on 21 March.

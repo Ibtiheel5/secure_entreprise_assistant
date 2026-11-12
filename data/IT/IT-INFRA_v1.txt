@@ -1,0 +1,17 @@
+# Infrastructure Documentation
+
+## Hosting
+
+Production workloads run on a three-node Kubernetes cluster hosted in the Tunis data center.
+
+## Database
+
+The primary PostgreSQL database replicates synchronously to a standby in a second availability zone.
+
+## Monitoring
+
+Metrics are collected by Prometheus and alerts are routed to the on-call engineer.
+
+## Disaster recovery
+
+The recovery time objective for core services is four hours and the recovery point objective is fifteen minutes.

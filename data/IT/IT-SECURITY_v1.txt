@@ -1,0 +1,17 @@
+# IT Security Policy
+
+## Network
+
+The production network is segmented into three zones: public, internal and restricted.
+
+## Patching
+
+Critical security patches must be deployed within 72 hours of release.
+
+## Backups
+
+Backups of production databases run every night at 02:00 and are retained for 35 days.
+
+## Incident reporting
+
+Any suspected security incident must be reported to the IT security desk within one hour.

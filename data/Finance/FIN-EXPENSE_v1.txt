@@ -1,0 +1,13 @@
+# Expense Policy
+
+## Approval
+
+Expenses above 200 dinars require written approval from the department manager.
+
+## Reimbursement
+
+Approved expense claims are reimbursed within 30 working days.
+
+## Receipts
+
+Every claim must include an original receipt or a legible scan.

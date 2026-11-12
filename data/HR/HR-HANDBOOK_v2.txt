@@ -1,0 +1,17 @@
+# Employee Handbook
+
+## Purpose
+
+This employee handbook describes working conditions at Nordia Systems. It applies to every employee in all departments.
+
+## Working hours
+
+Standard working hours at Nordia Systems are 8:30 to 16:30. Employees take a one hour lunch break.
+
+## Remote work
+
+Employees may work remotely up to three days per week with manager approval.
+
+## Dress code
+
+Business casual clothing is expected in client-facing meetings.
